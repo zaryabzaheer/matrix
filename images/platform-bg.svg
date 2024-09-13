@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1923.291" height="655.502" viewBox="0 0 1923.291 655.502">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.982" y1="0.139" x2="0.026" y2="0.823" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1567bb" stop-opacity="0"/>
+      <stop offset="0.389" stop-color="#1d56d7" stop-opacity="0.565"/>
+      <stop offset="1" stop-color="#00f1ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.028" y1="-0.087" x2="0.057" y2="0.939" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0dc7c9" stop-opacity="0"/>
+      <stop offset="0.222" stop-color="#1dd9de"/>
+      <stop offset="0.463" stop-color="#fafcff"/>
+      <stop offset="0.872" stop-color="#e252ff"/>
+      <stop offset="1" stop-color="#e06ff5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.931" x2="1" y2="0.088" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.778"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6098" data-name="Group 6098" transform="translate(0.254 21.996)">
+    <path id="Path_4461" data-name="Path 4461" d="M16281.109,4467.49l-.086,221.563,1920.207-336.821,3.084-220.682Z" transform="translate(-16281.277 -4153.547)" fill="url(#linear-gradient)"/>
+    <text id="matrix_PLATFORM" data-name="matrix PLATFORM" transform="matrix(0.985, -0.174, 0.174, 0.985, 964.029, 313.996)" fill="#fff" font-size="140" font-family="Outfit" font-weight="800"><tspan x="-807" y="0">matrix PLATFORM</tspan></text>
+    <path id="Line_3" data-name="Line 3" d="M.445,234.619l-.167-.986L1341.917-.493l.167.986Z" transform="translate(99.5 73.091)" fill="url(#linear-gradient-2)"/>
+    <path id="Line_3-2" data-name="Line 3" d="M.445,234.619l-.167-.986L1341.917-.493l.167.986Z" transform="translate(99.5 273.091)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_4467" data-name="Path 4467" d="M16281.109,4467.49l-.086,99.563,1920.109-338.789-.035-96.108Z" transform="translate(-16281.277 -3933.547)" fill="url(#linear-gradient-4)"/>
+    <text id="matrix_market_Place" data-name="matrix market Place" transform="matrix(0.985, -0.174, 0.174, 0.985, 275.035, 544.21)" fill="#e06ff5" font-size="40" font-family="Outfit" font-weight="600"><tspan x="-218" y="0">matrix market Place</tspan></text>
+    <text id="_3D_Public_Profile" data-name="3D Public Profile" transform="matrix(0.985, -0.174, 0.174, 0.985, 766.035, 460.88)" fill="#0dc7c9" font-size="40" font-family="Outfit" font-weight="600"><tspan x="-147" y="0">3D Public Profile</tspan></text>
+    <text id="Game" transform="matrix(0.985, -0.174, 0.174, 0.985, 1138.035, 396.486)" fill="#e3d200" font-size="40" font-family="Outfit" font-weight="600"><tspan x="-55" y="0">Game</tspan></text>
+    <text id="Home" transform="matrix(0.985, -0.174, 0.174, 0.985, 1365.035, 356.827)" fill="#f56f6f" font-size="40" font-family="Outfit" font-weight="600"><tspan x="-53" y="0">Home</tspan></text>
+    <text id="Collage" transform="matrix(0.985, -0.174, 0.174, 0.985, 1601.035, 311.556)" fill="#00c4ff" font-size="40" font-family="Outfit" font-weight="600"><tspan x="-68" y="0">Collage</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246.275" height="16.984" viewBox="0 0 246.275 16.984">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Union_7" data-name="Union 7" d="M29.285,16.984V15.391H0V0H33.946V7.962H226.974V1.593h19.3V13.268H228.969v3.716Z" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e06ff5" stop-opacity="0.616"/>
+      <stop offset="1" stop-color="#bc47d1"/>
+    </linearGradient>
+    <filter id="Ellipse_14" x="-7.719" y="-8.691" width="259.182" height="34.879" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#12edff" flood-opacity="0.463"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_7" data-name="Mask Group 7" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_14)">
+      <path id="Ellipse_14-2" data-name="Ellipse 14" d="M120.591,2.411C57.4,2.411,16.143,5.655,5.18,8.44c10.962,2.784,52.224,6.028,115.411,6.028S225.04,11.224,236,8.44C225.04,5.655,183.778,2.411,120.591,2.411m0-2.411c66.6,0,120.591,3.779,120.591,8.44s-53.991,8.44-120.591,8.44S0,13.1,0,8.44,53.991,0,120.591,0Z" transform="translate(1.28 -0.69)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

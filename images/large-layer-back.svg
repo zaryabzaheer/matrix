@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="193.434" height="12.267" viewBox="0 0 193.434 12.267">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2360" data-name="Rectangle 2360" width="193.434" height="12.267" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f6cfc"/>
+      <stop offset="1" stop-color="#1df4f7"/>
+    </linearGradient>
+    <filter id="Ellipse_14" x="-79.648" y="-4.79" width="339.631" height="40.51" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#12edff" flood-opacity="0.463"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" opacity="0.5" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_14)">
+      <path id="Ellipse_14-2" data-name="Ellipse 14" d="M160.816,3.216c-84.264,0-139.288,4.326-153.908,8.039,14.619,3.713,69.644,8.039,153.908,8.039S300.1,14.968,314.723,11.255C300.1,7.542,245.079,3.216,160.816,3.216m0-3.216c88.816,0,160.816,5.039,160.816,11.255s-72,11.255-160.816,11.255S0,17.471,0,11.255,72,0,160.816,0Z" transform="translate(-70.65 3.21)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
